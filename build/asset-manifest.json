@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a978d8b0.css",
+    "main.js": "./static/js/main.2cc5ed4a.js",
+    "static/js/787.5da56637.chunk.js": "./static/js/787.5da56637.chunk.js",
+    "static/media/abstract-background-with-red-lines 1.png": "./static/media/abstract-background-with-red-lines 1.84e491c377e4a51bc800.png",
+    "index.html": "./index.html",
+    "main.a978d8b0.css.map": "./static/css/main.a978d8b0.css.map",
+    "main.2cc5ed4a.js.map": "./static/js/main.2cc5ed4a.js.map",
+    "787.5da56637.chunk.js.map": "./static/js/787.5da56637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a978d8b0.css",
+    "static/js/main.2cc5ed4a.js"
+  ]
+}
